@@ -42,7 +42,7 @@ Identify the problem, discuss different approaches and solutions and then work t
 * Populate the 3 article sections with data that is also relevant  
 * When the user clicks “Read More” They are taken to that article
 
-###List of API's without authorization - Pick one that you can comfortably navigate!
+###List of API's without authorization - Use one of the API's listed or one of your choosing, as long as you can navigate the JSON comfortably!
 * [Wikipedia](https://en.wikipedia.org/w/api.php?)
 * [BBC1 Radio Playlist](http://www.bbc.co.uk/radio1/playlist.json)
 * [Google Books](https://www.googleapis.com/books/v1/volumes?q=isbn:0747532699)
